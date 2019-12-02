@@ -19,3 +19,7 @@
    1. 功能設計
    1. 介面設計
    1. 之類的～
+4
+
+# 練習方向
+[Khan HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
